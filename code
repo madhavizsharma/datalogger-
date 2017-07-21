@@ -1,5 +1,5 @@
 // Here is the code for arduino based data loggger. Most of the part of the code is taken from below link:
-// <a href="https://circuitdigest.com/arduino-projects">https://circuitdigest.com/arduino-projects</a>
+// https://circuitdigest.com/arduino-projects
  * ###Connection with SD card module###
  * Vcc->5V
  * Gnd->Gnd
